@@ -16,9 +16,23 @@ DevaNet is a Handwritten Hindi Text Recognition System designed to accurately tr
 
 The IIIT-HW-Dev dataset serves as the backbone of DevaNet, providing a comprehensive collection of handwritten Devanagari words for training, validation, and testing. The dataset is structured into train, validation, and test subsets, with a detailed vocabulary file mapping unique words to their corresponding labels.
 The following are some examples of input images from the dataset:
+
+
+
+
 <img width="339" alt="image" src="https://github.com/Prakherp/DevaNet/assets/79146254/46881f14-34e1-4a42-ad8e-d213584fb502">
 
+
+
+
+
+
 <img width="328" alt="image" src="https://github.com/Prakherp/DevaNet/assets/79146254/8b66f09b-5eb2-45b1-986d-9fcdcfa85a94">
+
+
+
+
+
 
 <img width="339" alt="image" src="https://github.com/Prakherp/DevaNet/assets/79146254/8bde775d-f6ac-4e5e-bd67-7033f804ef25">
 
